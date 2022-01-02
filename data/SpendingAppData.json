@@ -1,0 +1,59 @@
+{
+    "spendingCategories": [
+        {
+            "balance": 20.08,
+            "category": "Work",
+            "transactions": [
+                {
+                    "date": "04/04/05",
+                    "amount": 3.33
+                },
+                {
+                    "date": "12/08/2021",
+                    "amount": 3.24
+                },
+                {
+                    "date": "12/30/2021",
+                    "amount": 13.51
+                }
+            ]
+        },
+        {
+            "balance": 6.57,
+            "category": "Starbucks",
+            "transactions": [
+                {
+                    "date": "04/04/05",
+                    "amount": 3.33
+                },
+                {
+                    "date": "12/08/2021",
+                    "amount": 3.24
+                }
+            ]
+        },
+        {
+            "balance": 5.4399999999999995,
+            "category": "Gas",
+            "transactions": [
+                {
+                    "date": "12/15/2021",
+                    "amount": 2.21
+                },
+                {
+                    "date": "12/31/2021",
+                    "amount": 3.23
+                }
+            ]
+        },
+        {
+            "balance": 13.51,
+            "category": "Books",
+            "transactions": [{
+                "date": "12/30/2021",
+                "amount": 13.51
+            }]
+        }
+    ],
+    "name": "Sara's Spending App"
+}

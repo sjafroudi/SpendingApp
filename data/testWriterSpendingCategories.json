@@ -1,0 +1,15 @@
+{
+    "spendingCategories": [
+        {
+            "balance": 0,
+            "category": "School",
+            "transactions": []
+        },
+        {
+            "balance": 0,
+            "category": "Transit",
+            "transactions": []
+        }
+    ],
+    "name": "Sara Jafroudi"
+}

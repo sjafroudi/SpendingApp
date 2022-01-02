@@ -1,0 +1,33 @@
+{
+  "name": "Sara Jafroudi",
+  "spendingCategories": [
+    {
+      "category": "Starbucks",
+      "balance": 0.00,
+      "transactions": [
+        {
+          "amount": 0.00,
+          "date": "03/04/21"
+        },
+        {
+          "amount": 0.00,
+          "date": "03/04/21"
+        }
+      ]
+    },
+    {
+      "category": "Gas",
+      "balance": 0.00,
+      "transactions": [
+        {
+          "amount": 20.00,
+          "date": "03/04/21"
+        },
+        {
+          "amount": 20.00,
+          "date": "03/04/21"
+        }
+      ]
+    }
+  ]
+}
